@@ -1,0 +1,3 @@
+Name | Email | Phone | Match
+Ninaad Wagle | ninaad.wagle@nmims.edu.in | +91 9876543210 | 100.0
+Ishita Rao | ishita.rao@nmims.edu.in | +91-9988776655 | 83.33

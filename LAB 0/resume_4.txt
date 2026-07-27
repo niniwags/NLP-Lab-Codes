@@ -1,0 +1,7 @@
+Rohan Iyer
+Email: rohan.iyer@outlook.com
+CGPA: 7.8
+Graduation: 2025
+
+Skills: Java, Spring Boot, SQL
+Projects: Backend REST services for an inventory system.

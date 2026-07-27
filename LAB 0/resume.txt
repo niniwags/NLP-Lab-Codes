@@ -1,0 +1,21 @@
+Nini Sharma
+Email: nini.sharma@email.com
+Phone: 9876543210
+Location: Mumbai, India
+
+Objective:
+Finance student with hands-on experience in quantitative options research, seeking opportunities in derivatives trading and volatility analysis.
+
+Education:
+CFA Level 1 Candidate, 2026
+B.Com in Finance
+
+Experience:
+Options Trading Firm - Intern
+Worked on implied volatility skew analysis and options pricing strategies.
+
+Research Analyst - ArrowheadCapital
+Built IV-based mean-reversion trading systems for NIFTY 50 weekly options.
+
+Skills:
+Python, Options Theory, Statistics, Financial Modeling

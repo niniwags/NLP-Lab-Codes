@@ -1,0 +1,58 @@
+RESUME SCREENING REPORT
+Role: NLP Engineer Intern
+Required Skills: python, regex, pandas, machine learning, sql, natural language processing
+Cutoffs: CGPA >= 7.0 | Graduation >= 2026
+==============================================================
+Rank 1: Ninaad Wagle  [SHORTLISTED]
+  File     : resume_1.txt
+  Email    : ninaad.wagle@nmims.edu.in
+  Phone    : +91 9876543210
+  Profile  : https://github.com/ArrowAnalytics
+  CGPA     : 8.7    Graduation: 2027
+  Match    : 100.0 percent
+  Matched  : python, regex, pandas, machine learning, sql, natural language processing
+  Missing  : none
+--------------------------------------------------------------
+Rank 2: Sara Fernandes  [REJECTED]
+  File     : resume_3.txt
+  Email    : sara.fernandes@@nmims..com   <-- INVALID FORMAT
+  Phone    : 9123456780
+  Profile  : github.com/sarafernandes
+  CGPA     : 9.1    Graduation: 2027
+  Match    : 83.33 percent
+  Matched  : python, regex, pandas, machine learning, natural language processing
+  Missing  : sql
+  Rejected : invalid email format
+--------------------------------------------------------------
+Rank 3: Ishita Rao  [SHORTLISTED]
+  File     : resume_5.txt
+  Email    : ishita.rao@nmims.edu.in
+  Phone    : +91-9988776655
+  Profile  : www.linkedin.com/in/ishitarao
+  CGPA     : 8.2    Graduation: 2026
+  Match    : 83.33 percent
+  Matched  : python, regex, pandas, sql, natural language processing
+  Missing  : machine learning
+--------------------------------------------------------------
+Rank 4: Aarav Mehta  [REJECTED]
+  File     : resume_2.txt
+  Email    : aarav.mehta@gmail.com
+  Phone    : 9812345678
+  Profile  : https://linkedin.com/in/aaravmehta
+  CGPA     : 6.4    Graduation: 2026
+  Match    : 33.33 percent
+  Matched  : python, sql
+  Missing  : regex, pandas, machine learning, natural language processing
+  Rejected : CGPA below cutoff; skill match below 50 percent
+--------------------------------------------------------------
+Rank 5: Rohan Iyer  [REJECTED]
+  File     : resume_4.txt
+  Email    : rohan.iyer@outlook.com
+  Phone    : Not found
+  Profile  : Not found
+  CGPA     : 7.8    Graduation: 2025
+  Match    : 16.67 percent
+  Matched  : sql
+  Missing  : python, regex, pandas, machine learning, natural language processing
+  Rejected : graduated before cutoff year; skill match below 50 percent
+--------------------------------------------------------------

@@ -1,0 +1,9 @@
+Ishita Rao
+Email: ishita.rao@nmims.edu.in
+Phone: +91-9988776655
+LinkedIn: www.linkedin.com/in/ishitarao
+CGPA: 8.2
+Graduation: 2026
+
+Skills: Python, Regex, SQL, Pandas, Natural Language Processing
+Projects: Rule based chatbot built entirely with regular expressions.

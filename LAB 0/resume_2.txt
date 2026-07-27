@@ -1,0 +1,9 @@
+Aarav Mehta
+Email: aarav.mehta@gmail.com
+Phone: 9812345678
+LinkedIn: https://linkedin.com/in/aaravmehta
+CGPA: 6.4
+Graduation: 2026
+
+Skills: Python, SQL, Excel
+Projects: Dashboard reporting using Excel and SQL queries.

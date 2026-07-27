@@ -1,0 +1,9 @@
+Ninaad Wagle
+Email: ninaad.wagle@nmims.edu.in
+Phone: +91 9876543210
+GitHub: https://github.com/ArrowAnalytics
+CGPA: 8.7
+Graduation: 2027
+
+Skills: Python, Pandas, NumPy, Regex, SQL, Machine Learning, Natural Language Processing
+Projects: Built a volatility research pipeline in Python using Pandas and regex based log parsing.

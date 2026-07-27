@@ -1,0 +1,6 @@
+Job Role: NLP Engineer Intern
+Company: Arrow Analytics
+Location: Mumbai
+Required Skills: python, regex, pandas, machine learning, sql, natural language processing
+Minimum CGPA: 7.0
+Minimum Graduation Year: 2026

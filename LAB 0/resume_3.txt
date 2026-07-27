@@ -1,0 +1,9 @@
+Sara Fernandes
+Email: sara.fernandes@@nmims..com
+Phone: 9123456780
+GitHub: github.com/sarafernandes
+CGPA: 9.1
+Graduation: 2027
+
+Skills: Python, Machine Learning, Natural Language Processing, Pandas, Regex
+Projects: Sentiment classifier trained on product reviews.
