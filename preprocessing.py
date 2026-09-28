@@ -709,3 +709,32 @@ def brown_category_statistics(category, top=5):
         "sentences": len(brown.sents(categories=category)),
         "most_common": freq_dist.most_common(top),
     }
+
+
+# ----------------------------------------------------------------------
+# LAB 8 - Word embeddings (Word2Vec)
+# ----------------------------------------------------------------------
+
+def document_vector(tokens, word_vectors):
+    """
+    Average of the word vectors in a document - one vector for the whole text.
+    Words the embedding does not know are skipped (matters for pretrained GloVe).
+    """
+    known = [t for t in tokens if t in word_vectors]
+    if not known:
+        return [0.0] * word_vectors.vector_size
+    return sum(word_vectors[t] for t in known) / len(known)
+
+
+def cosine_similarity(a, b):
+    """Cosine of the angle between two vectors: 1 = same direction, 0 = unrelated."""
+    dot = sum(x * y for x, y in zip(a, b))
+    norm = math.sqrt(sum(x * x for x in a)) * math.sqrt(sum(y * y for y in b))
+    return float(dot / norm) if norm else 0.0
+
+
+def text_similarity(text_a, text_b, word_vectors):
+    """Preprocess two raw texts, average their word vectors, and compare with cosine."""
+    a = document_vector(preprocess(text_a, lemmatize=True), word_vectors)
+    b = document_vector(preprocess(text_b, lemmatize=True), word_vectors)
+    return cosine_similarity(a, b)
